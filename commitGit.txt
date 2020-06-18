@@ -1,0 +1,5 @@
+git status : kiểm tra các thay đổi trong project (màu đỏ)
+git add -all : chọn hết các thay đổi trong project
+git status : kiểm tra lại những file thay đổi đã được chọn trong project (màu xanh)
+git commit -m " comment trong này " (sẽ thấy các dòng create mode)
+git push origin master : đẩy hết lên nhánh master
